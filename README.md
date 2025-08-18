@@ -10,8 +10,8 @@ To perform regular differncing,seasonal adjustment and log transformatio on inte
 4. Plot the data according to need, before and after regular differncing,seasonal adjustment,log transformation.
 5. Display the overall results.
 ### PROGRAM:
-### Developed by: AFSAR JUMAIL S
-### Register no:212222240004
+### Developed by: JAGANNIVASH U M
+### Register no: 212224240059
 ```py
 import pandas as pd
 import numpy as np
@@ -60,8 +60,6 @@ plt.tight_layout()
 plt.show()
 ```
 ### OUTPUT:
-
-![image](https://github.com/user-attachments/assets/09883be6-56a5-43bc-b6e1-ab1a8066faf5)
 
 #### REGULAR DIFFERENCING:
 
