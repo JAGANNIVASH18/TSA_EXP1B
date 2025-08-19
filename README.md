@@ -60,20 +60,25 @@ plt.tight_layout()
 plt.show()
 ```
 ### OUTPUT:
+#### ORIGINAL DATA:
+<img width="1242" height="229" alt="Screenshot 2025-08-19 133021" src="https://github.com/user-attachments/assets/f2b55336-e125-48de-b6b3-fed5beeae2df" />
+
 
 #### REGULAR DIFFERENCING:
 
-![image](https://github.com/user-attachments/assets/7922a094-902f-45b0-b43d-6a053f9930fc)
+<img width="1275" height="216" alt="Screenshot 2025-08-19 133054" src="https://github.com/user-attachments/assets/cd3f6a46-9334-4cf7-b0d9-955a64b5f5a0" />
+
 
 
 
 #### SEASONAL ADJUSTMENT:
 
-![image](https://github.com/user-attachments/assets/3b8b45d9-1244-4ffc-ac57-d945b391e2b3)
+<img width="1262" height="221" alt="Screenshot 2025-08-19 133111" src="https://github.com/user-attachments/assets/d5565260-6ae6-4790-a254-9c493d27b337" />
+
 
 #### LOG TRANSFORMATION:
+<img width="1257" height="233" alt="Screenshot 2025-08-19 133124" src="https://github.com/user-attachments/assets/93e55341-367b-4510-9872-70f76a34a5cd" />
 
-![image](https://github.com/user-attachments/assets/097e20cc-3c1d-4c30-9518-a42fc70260bc)
 
 
 
